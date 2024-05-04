@@ -1,9 +1,9 @@
-## Maze Runner
+## Maze Run - Zombie
 
 
 ### Description:
 
-Maze Runner is a Python-based maze game where the player navigates through a maze to collect diamonds while avoiding AI-controlled zombies. The game features various characters and elements, including the player, zombies, diamonds, and grass bushes.
+Maze Run - Zombie is a Python-based maze game where the player navigates through a maze to collect diamonds while avoiding AI-controlled zombies. The game features various characters and elements, including the player, zombies, diamonds, and grass bushes.
 
 
 ### Characters and Elements:
@@ -42,13 +42,14 @@ The incorporation of AI in the game is evident in the behavior of the zombies. I
 
 3. **AI Bot**: Develop an AI bot capable of playing the game autonomously. This could involve using pathfinding algorithms to navigate the maze efficiently and evade zombies while collecting diamonds.
 
+4. **Sound**: Add Different sounds to make the game better for the player
 
 ### Contributions:
 Contributions to the project, such as bug fixes, optimizations, or additional features, are welcome via pull requests on GitHub.
 
 
 ### Credits:
-The game assets, including sprites and maze layouts, are credited to their respective creators and are utilized under appropriate licenses.
+The GIF and Image files used to represent the characters and objects in this game are owned by their respective owners.
 
 
 ### Poster of the project :- 
